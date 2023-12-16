@@ -11,7 +11,8 @@ Copyright Information:
 - This control mapping is covered under copyright through the SANS Technology Institute and is the exclusive property of the author Donald (Don) Dragoo.
 - This control mapping is intended for the betterment of the INFOSEC community and is not authorized for use in any commercial environment or application without express written approval and compensation of the author. 
 
-Contact the Author: Donald (Don) Dragoo | IT & Cybersecurity Professional | STI - MSISM Graduate
+Contact the Author: 
+Donald (Don) Dragoo | IT & Cybersecurity Professional | STI - MSISM Graduate
 E-Mail: dondragoo@outlook.com 
 LinkedIn: www.linkedin.com/in/don-dragoo-808a2118
 
